@@ -2,6 +2,7 @@
 int main(){
     printf("This is my first program!");
     system("pause");
-    return 0;}
+    return 0;
+}
 
 
